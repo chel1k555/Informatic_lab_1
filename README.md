@@ -1,1 +1,0 @@
-# Informatic_lab_1
