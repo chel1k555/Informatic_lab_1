@@ -30,3 +30,10 @@ echo "Welcome to ITMO University"
 
 Сделаем это с помощью данного символа `$*`, который позволяет считать строку и вывести.
 
+<img src="images/redact3.png">
+
+Проверим
+
+<img src="images/final.png">
+
+Все готово, лабораторная выполнена!
