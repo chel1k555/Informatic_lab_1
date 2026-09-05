@@ -6,5 +6,18 @@
 
 ## Выполнение
 
-создаем файл `script.bash` и открываем его для дальнейшего выполнения. Используем команды `touch` и `gedit` соответственно.
+Создаем файл `script.bash` и открываем его для дальнейшего выполнения. Используем команды `touch` и `gedit` соответственно.
 
+<img src="images/zapusk.png">
+
+Далее по заданию вносим специальную волшебную команду 
+
+```bash
+echo "Welcome to ITMO University"
+```
+
+<img src="images/redact2.png">
+
+Проверим работу
+
+<img src="images/proverka.png">
